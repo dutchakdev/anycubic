@@ -1,0 +1,4 @@
+body, .theme--dark.v-application, .theme--dark.v-navigation-drawer,
+.v-navigation-drawer__content {
+    background: #16181d !important;
+}
