@@ -1,4 +1,6 @@
-# 3dprinters
+<p align="center">
+  <img width="100" src="/megas/.fluidd-theme/logo.png">
+</p>
 
 # Anycubic Mega S
 - BLTouch
