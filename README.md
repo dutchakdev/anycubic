@@ -2,6 +2,9 @@
   <img width="100" src="/megas/.fluidd-theme/logo.png">
 </p>
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&pause=1000&color=000000&random=false&width=230&lines=3D+Printing+is+Awesome" alt="Typing SVG" />
+</p>
+<p align="center">
 <a href="https://twitter.com/dutchakdev2">
     <img src="https://img.shields.io/twitter/follow/dutchakdev2?label=&style=for-the-badge&logo=X&color=black">
 </a>
@@ -17,6 +20,11 @@
 <a href="https://ua.linkedin.com/in/dutchakdev">
     <img alt="Linkedin" src="https://img.shields.io/badge/-badge?style=for-the-badge&logo=linkedin&logoColor=white&color=black">
 </a>
+</p>
+<p align="center">
+    <a href="https://savelife.in.ua/en/">
+        <img src="https://img.shields.io/badge/Support-Ukraine-FFD500?style=flat&labelColor=005BBB" />
+    </a>
 </p>
 
 # My Anycubic printers:
@@ -82,3 +90,5 @@
 <br/>
 
 </p>
+
+----
