@@ -66,6 +66,10 @@
 - [MKS Eagle PIN diagram](https://github.com/makerbase-mks/MKS-EAGLE/blob/0838a68b5ba4e463721a914e19f344667ca50438/hardware/MKS%20Eagle%20V1.0_001/MKS%20Eagle%20V1.0_001%20PIN.pdf)
 - [BTT SKR 3 MINI PIN Diagram](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/blob/master/hardware/BTT%20SKR%20MINI%20E3%20V3.0/Hardware/BTT%20E3%20SKR%20MINI%20V3.0_PIN.pdf)
 
+### 🔬 Calibrations models
+- 🌡️ Temperature towers: [PLA](https://www.thingiverse.com/thing:2761934) [PETG](https://www.thingiverse.com/thing:2862812)
+- 🫨 [Resonance compensation](https://www.klipper3d.org/prints/ringing_tower.stl)
+
 ### 💾 Firmware and software
 [<img width="50" align="left" src="https://avatars.githubusercontent.com/u/90982958?s=50&v=4" />](https://www.klipper3d.org/)
 
