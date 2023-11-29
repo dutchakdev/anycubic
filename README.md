@@ -20,13 +20,13 @@
 </p>
 
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&repeat=false&weight=500&pause=1000&color=d92632&random=false&width=230&lines=🖨️ My+Anycubic+printers:" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&repeat=true&weight=500&pause=1000&color=d92632&random=false&width=230&lines=🖨️ My+Anycubic+printers:" alt="Typing SVG" />
 </p>
 
 ----
 
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&repeat=false&weight=500&pause=1000&color=d92632&random=false&width=230&lines=🦄 Anycubic Mega S" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&repeat=true&weight=500&pause=1000&color=d92632&random=false&width=230&lines=🦄 Anycubic Mega S" alt="Typing SVG" />
 </p>
 
 - 👇 Antclabs BLTouch 3.1 [![Order now](https://img.shields.io/badge/Order_-black?style=flat-square&logo=shopee&logoColor=white&labelColor=black&color=black)](https://s.click.aliexpress.com/e/_Eue1Vsv)
@@ -46,7 +46,7 @@
 
 ----
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&repeat=false&weight=500&pause=1000&color=d92632&random=false&width=230&lines=🔥 Anycubic Chiron Ender" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&repeat=true&weight=500&pause=1000&color=d92632&random=false&width=230&lines=🔥+Anycubic+Chiron+Ender" alt="Typing SVG" />
 </p>
 
 - 👇 Antclabs BLTouch 3.1 [![Order now](https://img.shields.io/badge/Order_-black?style=flat-square&logo=shopee&logoColor=white&labelColor=black&color=black)](https://s.click.aliexpress.com/e/_Eue1Vsv)
