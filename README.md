@@ -70,6 +70,10 @@
 - 🌡️ Temperature towers: [PLA](https://www.thingiverse.com/thing:2761934) [PETG](https://www.thingiverse.com/thing:2862812)
 - 🫨 [Resonance compensation](https://www.klipper3d.org/prints/ringing_tower.stl)
 
+### 🩺 Troubleshooting
+- [Print Quality Troubleshooting Guide] (https://www.simplify3d.com/resources/print-quality-troubleshooting/)
+- [A visual Ultimaker troubleshooting guide](https://support.3dverkstan.se/article/23-a-visual-ultimaker-troubleshooting-guide)
+
 ### 💾 Firmware and software
 [<img width="50" align="left" src="https://avatars.githubusercontent.com/u/90982958?s=50&v=4" />](https://www.klipper3d.org/)
 
